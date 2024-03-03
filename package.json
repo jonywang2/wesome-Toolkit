@@ -1,0 +1,26 @@
+{
+"name": "woshiyigefeichangfeichangshuaiqideshuaigegeyaya",
+"version": "1.0.0",
+"description": " Welcome to the Awesome Toolkit! This repository contains a collection of tools",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/jonywang2/wesome-Toolkit.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "jonywang2",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
